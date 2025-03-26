@@ -2,3 +2,13 @@
 Furkan a fait un MCD,débute journal de bord et un arbre effectué
 Sofien s'occupe des requetes
 Akim debute le diaporama et les requetes
+
+25/03/2025 :
+Nathan a presque fini les INSERT
+Sofien et Akim ont quasi fini les requetes 
+Furkan à presque fini les arbre et a aidé Nathan pour les INSERT
+
+26/03/2025 :
+Nathan a revu les INSERT
+Sofien et Akim ont fini les requetes et commencé la partie python
+Furkan a terminé les arbres
